@@ -1,0 +1,19 @@
+{
+	"name": "wp",
+	"description": "WordPress agents, commands, hooks, and skills for Claude",
+	"version": "1.0.0",
+	"author": {
+		"name": "Matthew Batchelder",
+		"email": "borkweb@gmail.com"
+	},
+	"homepage": "https://github.com/borkweb/claude-wordpress-plugin",
+	"repository": "https://github.com/borkweb/claude-wordpress-plugin",
+	"license": "MIT",
+	"keywords": [
+		"skills",
+		"wordpress",
+		"debugging",
+		"best-practices",
+		"workflows"
+	]
+}
